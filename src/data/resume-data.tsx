@@ -62,7 +62,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "VESIT",
-      // link: "https://parabol.co",
+      link: "https://vesit.ves.ac.in",
       badges: [],
       title: "Summer Intern",
       logo: ParabolLogo,
